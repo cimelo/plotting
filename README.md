@@ -7,7 +7,7 @@
 
 ## Help
 On terminal, run:
-'''
+```
 $ pip install requeriments.txt
 $ python file.py
-'''
+```
